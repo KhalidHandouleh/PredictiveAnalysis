@@ -1,3 +1,3 @@
 # PredictiveAnalysis
-Thia repository is for educational purpose
+This repository is for educational purpose
  
